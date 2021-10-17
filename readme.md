@@ -3,6 +3,27 @@ Gabrielle Madden
 
 This repo is a clone of https://github.com/nelaturuk/education_pathways.
 
+## Activity 1
+![repo](https://github.com/gabriellemadden/ECE444-F2021-Lab5/blob/styling-practice/lab_submission/repo.png?raw=true)
+
+## Activity 2-5
+
+Home Page
+
+![home](https://github.com/gabriellemadden/ECE444-F2021-Lab5/blob/styling-practice/lab_submission/home.png?raw=true)
+
+Results Page - Form
+
+![form](https://github.com/gabriellemadden/ECE444-F2021-Lab5/blob/styling-practice/lab_submission/results-form.png?raw=true)
+
+Results Page - Results Table
+
+![table](https://github.com/gabriellemadden/ECE444-F2021-Lab5/blob/styling-practice/lab_submission/results.png?raw=true)
+
+## Activity 6
+In the old UI, the results table is difficult to understand because there are no dividers between the cell items and the table headers are right-aligned. In the new  UI, the borders clearly divide the cell information and the centre-alignment of the headers makes
+it much easier to tell what the column information is representing.
+
 # CARTE Education Pathways
 
 ## Description
